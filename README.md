@@ -1,2 +1,6 @@
 # AI-Deep-learning-related
-Online courses - inspired python code 
+Python code inspired by Deep-/Machine Learning courses. 
+
+Topics
+- Convolutional Neural Networks
+- Recurrent Neural Networks
